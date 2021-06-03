@@ -1,7 +1,6 @@
 
 Modulo API Google Books
-
-NODE JS
+Conexión a la bd de libros con NODE JS
 
 No tiene cargado el package node_modules
 
